@@ -78,5 +78,7 @@ Here is a list of files included in this repository:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
+## Contact
+Developed by 🧨🧨  **mdshahriaalam2**
 
-Happy coding! 🎉
+Happy coding and learning JS programming!
